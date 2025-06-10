@@ -1,0 +1,1 @@
+# Projekt zaliczeniowy na przedmiot Elementy algebry i teorii liczb.
