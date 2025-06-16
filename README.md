@@ -1,1 +1,2 @@
-# Projekt zaliczeniowy na przedmiot Elementy algebry i teorii liczb.
+# Miller Rabin Test
+- Project for subject Elements of algebra and number theory.
